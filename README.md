@@ -4,8 +4,6 @@
 <h3 align="center">void add(T newItem) - Adds a new item to the end of the list.v</h3> 
 <h3 align="center">T remove(int index) - Removes the item at the specified index from the list and returns it.</h3> 
   <h3 align="center">T get(int index) - Returns the item at the specified index in the list.</h3> 
-  <h3 align="center">int find(T keyItem) - Searches for the index of the first occurrence of the specified item in the list. Returns -1 if not found.</h3> 
-  <h3 align="center">void reverse() - Reverses the order of the elements in the list.</h3> 
   <h3 align="center">boolean contains(Object o) - Returns true if the list contains the specified element.</h3> 
   <h3 align="center">void add(T newItem, int index) - Adds the specified item at the specified position in the list.</h3> 
   <h3 align="center">boolean remove(T item) - Removes the first occurrence of the specified item from the list. Returns true if the item was found and removed.</h3> 
