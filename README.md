@@ -16,10 +16,11 @@
   <h3 align="center">void sort() - Sorts the elements in the list in ascending order.</h3> 
   <h3 align="center"></h3> 
   
-
+# Example of usage
 ```
-MyList<String> myArrayList = new MyArrayList<>();
-myArrayList.add("Hello");
-myArrayList.add("World");
-String test = myArrayList.get(1);
+MyList<String> myLinkedList = new MyLinkedList<>();
+myLinkedList.add(100);
+myLinkedList.add(150);
+Intger ex = myLinkedList.get(1);
+System.out.println(myLinkedList.contains(100));
 ```
