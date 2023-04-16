@@ -1,6 +1,7 @@
 # AdsAssignment2
 <h1 align="center">Assignment for ADS done in <a href="https://daniilshat.ru/" target="_blank">Java</a> 
 <h3 align="center">MyList Interface:</h3>
+<h3 align="center">void size() - Get the size of the listv</h3> 
 <h3 align="center">void add(T newItem) - Adds a new item to the end of the list.v</h3> 
 <h3 align="center">T remove(int index) - Removes the item at the specified index from the list and returns it.</h3> 
   <h3 align="center">T get(int index) - Returns the item at the specified index in the list.</h3> 
